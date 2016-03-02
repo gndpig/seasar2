@@ -1,4 +1,5 @@
-/*
+fsdagas
+gasdhogasuj/*
  * Copyright 2004-2015 the Seasar Foundation and the Others.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
